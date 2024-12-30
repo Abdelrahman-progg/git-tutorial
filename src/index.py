@@ -1,2 +1,2 @@
 print('index.py')
-print('virsion 4')
+print('virsion1')
