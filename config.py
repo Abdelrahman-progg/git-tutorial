@@ -1,2 +1,2 @@
 print('config.py')
-print('version')
+print('version11')
